@@ -7,6 +7,14 @@ This page has information about the apartment. It can only be accessed on the ap
 - No smoking.
 - Be mindful about loud parties (neighbors are sensitive).
 
+## Rent
+
+- Payments should be sent to the Paypal address `ben@treasurerobotics.com` by the 1st of the month. There is a grace period of 5 days for late payments.
+
+## Emergencies
+
+- For emergency repair requests, call `678-561-3132` or send an email to `ben@bolte.cc` with the subject line `Nashville - Chelsea Condominums`
+
 ## Helpful Advice
 
 - If you're **cooking something with a lot of smoke**, open the bedroom window and use the fan to blow the smoke away from the fire alarm (and also make sure you don't get carbon monoxide poisoning).
@@ -15,4 +23,7 @@ This page has information about the apartment. It can only be accessed on the ap
 - If the unit has been unoccupied for a while, the water can start to **smell a [bit like sulfur][sulfur-smell-explained]**. If this happens, just run the water for a bit until it goes away.
 - For other **miscellaneous repairs**, there's a box of tools and other hardware in the closet.
 
+*Is this page out-of-date? Send a message to `ben@bolte.cc` describing the problem or check the Github page [here][github-page].*
+
+[github-page]: https://github.com/codekansas/home-server/tree/nashville-chelsea
 [sulfur-smell-explained]: https://www.culligan.com/blog/sulfur-smell-in-water-where-does-it-come-from
