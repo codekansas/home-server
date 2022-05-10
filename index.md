@@ -1,3 +1,5 @@
+![](chelsea.jpeg)
+
 Welcome home! 🏠
 
 This page has information about the apartment. It can only be accessed on the apartment's Wifi network, so you should download this page somewhere if you want to access it from somewhere else.
@@ -22,6 +24,10 @@ This page has information about the apartment. It can only be accessed on the ap
 - If the **washing machine stops working**, it's best to contact GE directly for repairs (other repair people in the area can be scammy, and GE gives a reasonable price).
 - If the unit has been unoccupied for a while, the water can start to **smell a [bit like sulfur][sulfur-smell-explained]**. If this happens, just run the water for a bit until it goes away.
 - For other **miscellaneous repairs**, there's a box of tools and other hardware in the closet.
+
+Enjoy your stay! 😊
+
+![](ben_and_chi.jpeg)
 
 *Is this page out-of-date? Send a message to `ben@bolte.cc` describing the problem or check the Github page [here][github-page].*
 
