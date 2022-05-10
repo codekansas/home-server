@@ -1,2 +1,7 @@
-# home-server
-A simple home server to run on my Raspberry Pi
+# Nashville - Chelsea Condominiums
+
+Rebuild static pages:
+
+```bash
+make
+```
